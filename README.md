@@ -1,1 +1,6 @@
-https://github.com/eooce/Sing-box  老王的库复制出来的
+# GalaxyCloud项目保活
+
+**最后运行时间**: `2025-12-11 20:29:07`
+
+**运行结果**: <br>
+✅ 保活成功
